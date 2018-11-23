@@ -80,6 +80,8 @@ c:\folder3\folder4";
             Console.WriteLine(array1[0]);
             Console.WriteLine(array2[1]);
             Console.WriteLine(array1[2]);
+
+            Console.WriteLine("Testing Git"); 
         }
     }
 }
